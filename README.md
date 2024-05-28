@@ -30,7 +30,7 @@ The model was trained and evaluated using the augmented dataset, achieving an ac
 
 ## How to Use
 1. **Clone the Repository**: Clone the project repository to your local machine.
-2. **Install Dependencies**: Install the necessary Python libraries as listed in the `requirements.txt` file.
+2. **Install Dependencies**: Install the necessary Python libraries.
 3. **Run Preprocessing**: Execute the preprocessing script to prepare and augment the dataset.
 4. **Train the Model**: Run the training script to train the model on the processed data.
 5. **Evaluate the Model**: Use the evaluation script to test the model and visualize its performance.
