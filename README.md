@@ -23,7 +23,7 @@ To balance the dataset and improve model performance, various data augmentation 
 ## Model
 The model leverages the pre-trained VGG16 network, a well-known Convolutional Neural Network (CNN) architecture, excluding the top layer. Custom layers were added on top of VGG16 for this specific classification task.
 
-![archi](Tweets_Preprocessing/Diag.png)
+![archi](heh.png)
 
 ## Performance
 The model was trained and evaluated using the augmented dataset, achieving an accuracy of approximately 93% on the test set.
