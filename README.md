@@ -27,6 +27,13 @@ The model leverages the pre-trained VGG16 network, a well-known Convolutional Ne
 
 ## Performance
 The model was trained and evaluated using the augmented dataset, achieving an accuracy of approximately 93% on the test set.
+heh1.png
+![performance](heh1.png)
+
+![confusion matrix](heh2.png)
+
+![metrics](heh3.png)
+
 
 ## How to Use
 1. **Clone the Repository**: Clone the project repository to your local machine.
