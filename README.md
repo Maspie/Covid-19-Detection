@@ -2,10 +2,10 @@
 
 ## Overview
 This project aims to detect neurodegenerative diseases, specifically Alzheimer's and Parkinson's, using MRI images and deep learning techniques. The model is built using the VGG16 architecture and trained on an augmented dataset to enhance its robustness and accuracy.
-
+Kaggle Notebook link - https://www.kaggle.com/toshall/neurodegenerative-disease-insight
 ## Dataset
 The dataset consists of MRI images categorized into three groups:
-
+Dataset link - https://www.kaggle.com/datasets/toshall/neurodegenerative-diseases
 - **Alzheimer's Disease**: MRI scans of patients diagnosed with Alzheimer's.
 - **Parkinson's Disease**: MRI scans of patients diagnosed with Parkinson's.
 - **Normal**: MRI scans of healthy individuals.
