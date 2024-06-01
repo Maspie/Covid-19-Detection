@@ -38,11 +38,10 @@ heh1.png
 
 
 ## How to Use
-1. **Clone the Repository**: Clone the project repository to your local machine.
-2. **Install Dependencies**: Install the necessary Python libraries.
-3. **Run Preprocessing**: Execute the preprocessing script to prepare and augment the dataset.
-4. **Train the Model**: Run the training script to train the model on the processed data.
-5. **Evaluate the Model**: Use the evaluation script to test the model and visualize its performance.
+1. **Install Dependencies**: Install the necessary Python libraries.
+2. **Run Preprocessing**: Execute the preprocessing script to prepare and augment the dataset.
+3. **Train the Model**: Run the training script to train the model on the processed data.
+4. **Evaluate the Model**: Use the evaluation script to test the model and visualize its performance.
 
 ## Acknowledgements
 This project utilizes MRI images obtained from various sources, including publicly available datasets. Data augmentation and preprocessing were applied to balance the dataset and enhance model performance.
